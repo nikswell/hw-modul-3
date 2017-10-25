@@ -19,7 +19,7 @@ body {
 }
 
 .wrp-style1 {
-  padding: 60px 40px 0px 40px;
+  padding: 60px 40px 0 40px;
 }
 
 .wrp-style2 {
@@ -27,7 +27,7 @@ body {
 }
 
 .wrp-style3 {
-  padding: 30px 40px 0px 40px;
+  padding: 30px 40px 0 40px;
 }
 
 .wrp-line {
@@ -44,7 +44,7 @@ border-radius:4pt; */
 
 .wrp-block1 {
   width: 150px;
-  padding: 0px 40px 50px 40px;
+  padding: 0 40px 50px 40px;
   /* border:1px solid red;
 border-radius:4pt; */
   display: inline-block;
@@ -60,10 +60,10 @@ border-radius:4pt; */
 }
 
 h3 {
-  margin: 25px 0px 10px 0px;
+  margin: 25px 0 10px 0;
 }
 
 p {
-  margin: 5px 0px 20px 0px;
+  margin: 5px 0 20px 0;
   color: rgb(0, 0, 0);
 }
